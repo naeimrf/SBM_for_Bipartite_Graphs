@@ -5,5 +5,6 @@ In this project, we have implemented a standard stochastic block model and a deg
 to be detected in a network.
 We have verified our implementation on three networks and experimented the degree-corrected stochastic block model on seven real world networks.
 
-Deepthi Hulithala Venkataramana, Naeim Rashidfarokhi
-Supervisor: Davide Vega D'Aurelio
+##### Deepthi Hulithala Venkataramana, Naeim Rashidfarokhi
+
+##### Supervisor: Davide Vega D'Aurelio
